@@ -1,2 +1,2 @@
-# Flash-Task-Manager
-Flask Task Manager
+# Flask-Task-Manager
+Task Management System built using Flask
